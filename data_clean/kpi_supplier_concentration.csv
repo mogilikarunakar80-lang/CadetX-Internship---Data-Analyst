@@ -1,0 +1,9 @@
+supplier_id,supplier_name,supplier_type,reliability_score,po_value
+SUP0005,Tianjin OEM Supplies,OEM,3,57021219035.6846
+SUP0001,Shenzhen OEM Supplies,OEM,5,55642967177.5622
+SUP0003,Shanghai Distributor Supplies,Distributor,4,55639766617.978004
+SUP0007,Suzhou Local Vendor Supplies,Local Vendor,5,55597719405.906
+SUP0008,Hangzhou OEM Supplies,OEM,4,55354898598.8158
+SUP0006,Qingdao Distributor Supplies,Distributor,3,55093574928.9478
+SUP0004,Ningbo Distributor Supplies,Distributor,3,54060209220.9282
+SUP0002,Guangzhou Local Vendor Supplies,Local Vendor,5,53275953255.0626
